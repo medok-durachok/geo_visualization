@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Карта", "Карта\Карта.csproj", "{099236B6-0715-463D-8ABA-3E9EF9D902E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{57C49B79-7F16-4688-B08B-B09EBAE8817B}"
+	ProjectSection(SolutionItems) = preProject
+		dlg_link.xml = dlg_link.xml
+		s.xml = s.xml
+		sel_link.xml = sel_link.xml
+		xas_link.xml = xas_link.xml
+		XMLFile1.xml = XMLFile1.xml
+		XMLFile2.xml = XMLFile2.xml
+		XMLFile3.xml = XMLFile3.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{099236B6-0715-463D-8ABA-3E9EF9D902E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099236B6-0715-463D-8ABA-3E9EF9D902E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099236B6-0715-463D-8ABA-3E9EF9D902E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099236B6-0715-463D-8ABA-3E9EF9D902E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {870BE0E6-4461-48F0-8F62-6E6BF9E13484}
+	EndGlobalSection
+EndGlobal

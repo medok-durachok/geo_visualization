@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Визуализация</title>
+
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+    
+    
+         <!-- Make sure you put this AFTER Leaflet's CSS -->
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+            integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+            crossorigin=""></script>
+
+            <link rel="stylesheet" type="text/css" href="style.css">
+            <script src="https://kit.fontawesome.com/b6eda2fd05.js" crossorigin="anonymous"></script>
+            <script src="map_js.js"></script>
+
+    </head>
+    <body onload="output_dlg(), output_xas(), output_sel()">
+        <header>
+            <form>
+                <input type="text" id="elastic" name="search" placeholder="Search" >
+                <button class="fa fa-search" type="submit" id="demo"></button>
+            </form>
+        </header>
+
+        <input type="checkbox" id="check">
+        <label for="check">
+            <i class="fas fa-angle-right" id="btn"></i> </i>
+            <i class="fas fa-angle-left" id="cancel"> </i>
+        </label> 
+
+        <div class="sidebar">
+            <ul>
+                <li><a href="#" style="text-align: center; color: #ffff;">Search</a></li>
+                <li>
+                    <a href="#">   
+                        <p><b>Languages:</b></p>     
+                        <input type="checkbox" id="lang1" value="Dolgan" onchange="output_dlg()" checked>
+                        <label for="lang1">Dolgan</label>
+                        <input type="checkbox" id="lang2" value="Selkup" onchange="output_sel()" checked> 
+                        <label for="lang2">Selkup</label>
+                        <input type="checkbox" id="lang3" value="Kamas" onchange="output_xas()" checked> 
+                        <label for="lang3">Kamas</label>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <p><b>Year of record: </b><output for="YearRange1" id="year1">1912</output> — <output for="YearRange2" id="year2">2019</output></p>
+                    </a>
+                        <div class="slidecontainer">
+                            <input type="range" id="YearRange1" max="2019" min="1912"  value="1912" step="1" oninput="outputUpdateYear1(value)" onchange="output_dlg(), output_xas(), output_sel()">
+                            <input type="range" id="YearRange2" max="2019" min="1912"  value="2019" step="1" oninput="outputUpdateYear2(value)" onchange="output_dlg(), output_xas(), output_sel()">
+                        </div>
+                    
+                </li>
+                <li>
+                    <a href="#">   
+                        <b>Sex:</b>     
+                        <input type="checkbox" id="sex1" value="Male" checked onchange="output_dlg(), output_xas(), output_sel()">
+                        <label for="sex1">Male</label>
+                        <input type="checkbox" id="sex2" value="Female" checked onchange="output_dlg(), output_xas(), output_sel()"> 
+                        <label for="sex2">Female</label>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <p><b>Age of speaker: </b><output for="AgeRange1" id="age1">10</output> — <output for="AgeRange1" id="age2">136</output></p>
+                    </a>
+                        <div class="slidecontainer" style="display: block;">
+                            <input type="range" id="AgeRange1" max="100" min="10"  value="10" step="1" oninput="outputUpdateAge1(value)" onchange="output_dlg(), output_xas(), output_sel()">
+                            <input type="range" id="AgeRange2" max="136" min="10"  value="136" step="1" oninput="outputUpdateAge2(value)" onchange="output_dlg(), output_xas(), output_sel()">
+                        </div>
+                        <input type="checkbox" id="agenone" value="" checked onchange="output_dlg(), output_xas(), output_sel()"> 
+                        <label for="agenone"><b>Show people without a known year of birth</b></label>
+                </li>
+                <li>
+                    <a href="#">
+                        <p><b>Paths: </b></p>
+                        <label class="switch">
+                            <input type="checkbox" id="check_switch" onchange="output_dlg(), output_xas(), output_sel()">
+                            <span class="slider round"></span>
+                        </label>
+                    </a>
+                </li>
+                <div id='info'>
+                    <img src="http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png" width="25" height="25">
+                    <p>Selkup</p>
+                </div>
+                
+            </ul>
+        </div>
+
+        <section id="mapid"></section>
+        
+    <script src = "scripts.js"></script>
+    </body>
+</html>

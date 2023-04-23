@@ -1,0 +1,2133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <TextName name="LittleDoll">
+    <Place>Таз</Place>
+    <RecordDate date="1965" />
+    <Speaker speaker="SAI" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Stars">
+    <Place>Tым</Place>
+    <RecordDate date="1964" />
+    <Speaker speaker="SVG" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="ThoughtsOfStepan">
+    <Place>Москва</Place>
+    <RecordDate date="1965" />
+    <Speaker speaker="AR" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="AWomanWasDrowned">
+    <Place>Парабель</Place>
+    <RecordDate date="1968" />
+    <Speaker speaker="IAI" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="AWomanWasDrowned">
+    <Place>Обь</Place>
+    <RecordDate date="1968" />
+    <Speaker speaker="IAI" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Fishing">
+    <Place>Кыба</Place>
+    <RecordDate date="1968" />
+    <Speaker speaker="IAI" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Fishing">
+    <Place>Нюр</Place>
+    <RecordDate date="1968" />
+    <Speaker speaker="IAI" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="BriefVacation">
+    <Place>Италия</Place>
+    <RecordDate date="1976" />
+    <Speaker speaker="KMG" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="BearAteTwoWomen">
+    <Place>Марково</Place>
+    <RecordDate date="1963" />
+    <Speaker speaker="KMS" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="BearAteTwoWomen">
+    <Place>Пирий</Place>
+    <RecordDate date="1963" />
+    <Speaker speaker="KMS" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Bear">
+    <Place>Максымкий</Place>
+    <RecordDate date="1963" />
+    <Speaker speaker="KMS" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Lifestory1">
+    <Place>Корелино</Place>
+    <RecordDate date="1963" />
+    <Speaker speaker="SPK" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Lifestory1">
+    <Place>Пристань</Place>
+    <RecordDate date="1963" />
+    <Speaker speaker="SPK" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Lifestory1">
+    <Place>Максимкин</Place>
+    <RecordDate date="1963" />
+    <Speaker speaker="SPK" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Lifestory1">
+    <Place>Томск</Place>
+    <RecordDate date="1963" />
+    <Speaker speaker="SPK" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="SettlementsOfOstyaks">
+    <Place>Кеть</Place>
+    <RecordDate date="1963" />
+    <Speaker speaker="KMS" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Deer">
+    <Place>Пур</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="KNM" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Deer">
+    <Place>Толька</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="KNM" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="MyFamilyAndMyVillage">
+    <Place>Толька</Place>
+    <RecordDate date="1969" />
+    <Speaker speaker="KPG" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Lifestory">
+    <Place>Тазовск</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="MMS" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Lifestory">
+    <Place>Совречка</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="MMS" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Lifestory">
+    <Place>Сидоровск</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="MMS" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="TrialOfTwoFriends">
+    <Place>Тарко_Сале</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="NN2" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="War">
+    <Place>Польша</Place>
+    <RecordDate date="1965" />
+    <Speaker speaker="SAlAl" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="War">
+    <Place>Германия</Place>
+    <RecordDate date="1965" />
+    <Speaker speaker="SAlAl" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="War">
+    <Place>Варшава</Place>
+    <RecordDate date="1965" />
+    <Speaker speaker="SAlAl" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="War">
+    <Place>Берлин</Place>
+    <RecordDate date="1965" />
+    <Speaker speaker="SAlAl" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="War">
+    <Place>Эльба</Place>
+    <RecordDate date="1965" />
+    <Speaker speaker="SAlAl" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="IWasBornInChaselka">
+    <Place>Часелька</Place>
+    <RecordDate date="1965" />
+    <Speaker speaker="SMI" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Lifestory">
+    <Place>Фарково</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="SMV" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Lifestory">
+    <Place>Игарка</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="SMV" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="TripByBoat">
+    <Place>Усть_Озёрное</Place>
+    <RecordDate date="1964" />
+    <Speaker speaker="SPK" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="IWasBornInChaselka">
+    <Place>Часелька</Place>
+    <RecordDate date="1965" />
+    <Speaker speaker="TVP" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="BearHunting">
+    <Place>Кеть</Place>
+    <RecordDate date="1963" />
+    <Speaker speaker="ZIF" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="RestlessNight">
+    <Place>Санкт-Петербург</Place>
+    <RecordDate date="1965" />
+    <Speaker speaker="AR" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Lgov">
+    <Place>Льгов</Place>
+    <RecordDate date="1965" />
+    <Speaker speaker="KGE" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="Lgov">
+    <Place>Росота</Place>
+    <RecordDate date="1965" />
+    <Speaker speaker="MNA" />
+    <Language lang="selkup" />
+  </TextName>
+  <TextName name="LifeHandicraft">
+    <Place>Дудинка</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeHandicraft">
+    <Place>Хатанга</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeHandicraft">
+    <Place>Стройка</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="AkNN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeHandicraft">
+    <Place>Камень</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="AkNN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeHandicraft">
+    <Place>Волочанка</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="AkNN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeHandicraft">
+    <Place>Стройка-Камень</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="AkNN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeHandicraft">
+    <Place>Хатанга</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="AkNN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeHandicraft">
+    <Place>Дудинка</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="AkNN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeHandicraft">
+    <Place>Катырык</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="AkNN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeHandicraft">
+    <Place>Красноярск</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="AkNN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Holiday">
+    <Place>Сындасско</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="AnMSp" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Teacher">
+    <Place>Боярка</Place>
+    <RecordDate date="1998" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Teacher">
+    <Place>Волочанка</Place>
+    <RecordDate date="1998" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Teacher">
+    <Place>Волочанка</Place>
+    <RecordDate date="1998" />
+    <Speaker speaker="BeEI" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Teacher">
+    <Place>Боярка</Place>
+    <RecordDate date="1998" />
+    <Speaker speaker="BeEI" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Teacher">
+    <Place>Усть_Авам</Place>
+    <RecordDate date="1998" />
+    <Speaker speaker="BeEI" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Teacher">
+    <Place>Катырык</Place>
+    <RecordDate date="1998" />
+    <Speaker speaker="BeEI" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Teacher">
+    <Place>Дудинка</Place>
+    <RecordDate date="1998" />
+    <Speaker speaker="BeEI" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Teacher">
+    <Place>Корго</Place>
+    <RecordDate date="1998" />
+    <Speaker speaker="BeEI" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Teacher">
+    <Place>Санкт-Петербург</Place>
+    <RecordDate date="1998" />
+    <Speaker speaker="BeEI" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="ReindeerHerding">
+    <Place>Попигай</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="ReindeerHerding">
+    <Place>Попигай</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="ChSA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="ReindeerHerding">
+    <Place>Саскылаах</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="ChSA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="ReindeerHerding">
+    <Place>Юрюнг</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="ChSA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Storytellers">
+    <Place>Усть_Авам</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Storytellers">
+    <Place>Усть_Авам</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="ElBK" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeChildren">
+    <Place>Новорыбное</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeChildren">
+    <Place>Сындасско</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeChildren">
+    <Place>Дудинка</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeChildren">
+    <Place>Блудная</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeChildren">
+    <Place>Новорыбное</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeChildren">
+    <Place>Сындасско</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeChildren">
+    <Place>Новосибирск</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeChildren">
+    <Place>Корго</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeChildren">
+    <Place>Омуевка</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeChildren">
+    <Place>Красноярск</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="FateOfANortherner">
+    <Place>Дудинка</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="LaVN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="FateOfANortherner">
+    <Place>Хатанга</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="LaVN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="FateOfANortherner">
+    <Place>Левинский</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="LaVN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="FateOfANortherner">
+    <Place>Курья</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="LaVN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="FateOfANortherner">
+    <Place>Черное</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="LaVN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="FateOfANortherner">
+    <Place>Красный</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="LaVN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="FateOfANortherner">
+    <Place>Часовна</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="LaVN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="FateOfANortherner">
+    <Place>Норильск</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="LaVN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="FateOfANortherner">
+    <Place>Потапово</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="LaVN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="FateOfANortherner">
+    <Place>Красноярск</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="LaVN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="FateOfANortherner">
+    <Place>Дудинка</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="FateOfANortherner">
+    <Place>Левинский</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="FateOfANortherner">
+    <Place>Курья</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="MusicRepressions">
+    <Place>Черное</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="LaVN" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="YakutsOfEssej">
+    <Place>Красноярск</Place>
+    <RecordDate date="200X" />
+    <Speaker speaker="MaPX" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="YakutsOfEssej">
+    <Place>Ессей</Place>
+    <RecordDate date="200X" />
+    <Speaker speaker="MaPX" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="YakutsOfEssej">
+    <Place>Таймыр</Place>
+    <RecordDate date="200X" />
+    <Speaker speaker="MaPX" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="YakutsOfEssej">
+    <Place>Хатанга</Place>
+    <RecordDate date="200X" />
+    <Speaker speaker="MaPX" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="YakutsOfEssej">
+    <Place>Енисейск</Place>
+    <RecordDate date="200X" />
+    <Speaker speaker="MaPX" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="YakutsOfEssej">
+    <Place>Камень</Place>
+    <RecordDate date="200X" />
+    <Speaker speaker="MaPX" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="YakutsOfEssej">
+    <Place>Хантайское</Place>
+    <RecordDate date="200X" />
+    <Speaker speaker="MaPX" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="YakutsOfEssej">
+    <Place>Таймыр</Place>
+    <RecordDate date="200X" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="YakutsOfEssej">
+    <Place>Эвенкия</Place>
+    <RecordDate date="200X" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Усть_Авам</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Катырык</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Волочанка</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Левинский</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Таймыр</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Дудинка</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Левинский_Песок</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Усть_Авам</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="PoPD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Дудинка</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="PoPD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Катырык</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="PoPD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Корго</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="PoPD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Камень</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="PoPD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Левинский</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="PoPD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Красноярск</Place>
+    <RecordDate date="2004" />
+    <Speaker speaker="PoPD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HardLife">
+    <Place>Норильск</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HardLife">
+    <Place>Потапово</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HardLife">
+    <Place>Дудинка</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HardLife">
+    <Place>Норильск</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="SuON" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HardLife">
+    <Place>Потапово</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="SuON" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HardLife">
+    <Place>Дудинка</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="SuON" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HardLife">
+    <Place>Красноярск</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="SuON" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HardLife">
+    <Place>Хантайское</Place>
+    <RecordDate date="1999" />
+    <Speaker speaker="SuON" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SongsTales">
+    <Place>Новорыбное</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="AkEE" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SongsTales">
+    <Place>Новорыбное</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="UkET" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SongsTales">
+    <Place>Хатанга</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="UkET" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SongsTales">
+    <Place>Дудинка</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="UkET" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SongsTales">
+    <Place>Норильск</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="UkET" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeNovorybnoe">
+    <Place>Хатанга</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeNovorybnoe">
+    <Place>Дудинка</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeNovorybnoe">
+    <Place>Хатанга</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="UkOA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeNovorybnoe">
+    <Place>Новорыбное</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="UkOA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeAndMusic">
+    <Place>Якутск</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="ZhNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeAndMusic">
+    <Place>Якутия</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="ZhNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeAndMusic">
+    <Place>Хатанга</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="ZhNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeAndMusic">
+    <Place>Попигай</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="ZhNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeAndMusic">
+    <Place>Косистый</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="ZhNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeAndMusic">
+    <Place>Таймыр</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="ZhNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeAndMusic">
+    <Place>Дудинка</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="ZhNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeAndMusic">
+    <Place>Оленекский</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="ZhNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeAndMusic">
+    <Place>Харыялах</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="ZhNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeAndMusic">
+    <Place>Оленек</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="ZhNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeAndMusic">
+    <Place>Таймыр</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeAndMusic">
+    <Place>Дудинка</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LifeAndMusic">
+    <Place>Якутск</Place>
+    <RecordDate date="20XX" />
+    <Speaker speaker="KuNS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Nganasan">
+    <Place>Кэрикэ</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="ChPK" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Nganasan">
+    <Place>Есей</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="ChPK" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Nganasan">
+    <Place>Камень</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="ChPK" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Accident">
+    <Place>Хатанга</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="AnIM" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="GoodSovietTimes">
+    <Place>Германия</Place>
+    <RecordDate date="1972" />
+    <Speaker speaker="AnMS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Amulet">
+    <Place>Мотода</Place>
+    <RecordDate date="19XX" />
+    <Speaker speaker="AsKS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Amulet">
+    <Place>Лааба</Place>
+    <RecordDate date="19XX" />
+    <Speaker speaker="AsKS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Amulet">
+    <Place>Ямаскыйаха</Place>
+    <RecordDate date="19XX" />
+    <Speaker speaker="AsKS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Amulet">
+    <Place>Хатанга</Place>
+    <RecordDate date="19XX" />
+    <Speaker speaker="AsKS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Amulet">
+    <Place>Туй</Place>
+    <RecordDate date="19XX" />
+    <Speaker speaker="AsKS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Amulet">
+    <Place>Москва</Place>
+    <RecordDate date="19XX" />
+    <Speaker speaker="AsKS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LegendSpiritOfTrees">
+    <Place>Норильск</Place>
+    <RecordDate date="199X" />
+    <Speaker speaker="BeAM" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Катырык</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Якутия</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Эвенкия</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Эссей</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Таймыр</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Хатанга</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Кресты</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Новая</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Хета</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Тылка</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Тёбюлегин</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Волочанка</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Маймеча</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Полькин</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Москва</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Камень</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Усть_Авам</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="HistoryOfKatyryk">
+    <Place>Боярка</Place>
+    <RecordDate date="1997" />
+    <Speaker speaker="BeES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Family">
+    <Place>Камень</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="unknown" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Family">
+    <Place>Норильск</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="unknown" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Family">
+    <Place>Таёжный</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="unknown" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Family">
+    <Place>Усурийск</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="unknown" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInWar">
+    <Place>Дудинка</Place>
+    <RecordDate date="1982" />
+    <Speaker speaker="ChVD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInWar">
+    <Place>Норильск</Place>
+    <RecordDate date="1982" />
+    <Speaker speaker="ChVD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInWar">
+    <Place>Красноярск</Place>
+    <RecordDate date="1982" />
+    <Speaker speaker="ChVD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInWar">
+    <Place>Звенигород</Place>
+    <RecordDate date="1982" />
+    <Speaker speaker="ChVD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInWar">
+    <Place>Муром</Place>
+    <RecordDate date="1982" />
+    <Speaker speaker="ChVD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInWar">
+    <Place>Тула</Place>
+    <RecordDate date="1982" />
+    <Speaker speaker="ChVD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInWar">
+    <Place>Брянск</Place>
+    <RecordDate date="1982" />
+    <Speaker speaker="ChVD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInWar">
+    <Place>Иваново</Place>
+    <RecordDate date="1982" />
+    <Speaker speaker="ChVD" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="AAPopov">
+    <Place>Таймыр</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="AkPG" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="AAPopov">
+    <Place>Енисей</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="ErTS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="AAPopov">
+    <Place>Санкт-Петербург</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="ErTS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Сындасско</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Хатанга</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Попигай</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Дудинка</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Якутск</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiES" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Хатанга</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiLS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Сындасско</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiLS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Корго</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiLS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Новорыбное</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiLS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Косистый</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiLS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Красноярск</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiLS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Таймыр</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiLS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Дудинка</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiLS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Потапово</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiLS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Армения</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiLS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life">
+    <Place>Якутск</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiLS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Belief">
+    <Place>Сындасско</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Story">
+    <Place>Юрюнг</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Story">
+    <Place>Новорыбное</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Story">
+    <Place>Хатанга</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Story">
+    <Place>Губа</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Syndassko">
+    <Place>Сындасско</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Syndassko">
+    <Place>Малый</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LegendOfBegichev">
+    <Place>Хатанга</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LegendOfBegichev">
+    <Place>Кресты</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LegendOfBegichev">
+    <Place>Новорыбное</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="LegendOfBegichev">
+    <Place>Попигай</Place>
+    <RecordDate date="2002" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Family">
+    <Place>Корго</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Family">
+    <Place>Новорыбное</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Family">
+    <Place>Красноярск</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Family">
+    <Place>Дудинка</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Family">
+    <Place>Хатанга</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Family">
+    <Place>Сопочное</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Family">
+    <Place>Кресты</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="KiPP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInSecondWorldWar">
+    <Place>Прохоровка</Place>
+    <RecordDate date="1967" />
+    <Speaker speaker="MiXS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInSecondWorldWar">
+    <Place>Курск</Place>
+    <RecordDate date="1967" />
+    <Speaker speaker="MiXS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInSecondWorldWar">
+    <Place>Москва</Place>
+    <RecordDate date="1967" />
+    <Speaker speaker="MiXS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInSecondWorldWar">
+    <Place>Белгород</Place>
+    <RecordDate date="1967" />
+    <Speaker speaker="MiXS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInSecondWorldWar">
+    <Place>Харьков</Place>
+    <RecordDate date="1967" />
+    <Speaker speaker="MiXS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInSecondWorldWar">
+    <Place>Полтава</Place>
+    <RecordDate date="1967" />
+    <Speaker speaker="MiXS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInSecondWorldWar">
+    <Place>Кременчуг</Place>
+    <RecordDate date="1967" />
+    <Speaker speaker="MiXS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInSecondWorldWar">
+    <Place>Крюков</Place>
+    <RecordDate date="1967" />
+    <Speaker speaker="MiXS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInSecondWorldWar">
+    <Place>Днепр</Place>
+    <RecordDate date="1967" />
+    <Speaker speaker="MiXS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInSecondWorldWar">
+    <Place>Ессентуки</Place>
+    <RecordDate date="1967" />
+    <Speaker speaker="MiXS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="SoldierInSecondWorldWar">
+    <Place>Кавказ</Place>
+    <RecordDate date="1967" />
+    <Speaker speaker="MiXS" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Life2">
+    <Place>Тонуский</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="PoIP" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Story">
+    <Place>Пономарёвка</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="PoKI" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="TojooAirplane">
+    <Place>Волочанка</Place>
+    <RecordDate date="1990" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="TojooInVolochanka">
+    <Place>Волочанка</Place>
+    <RecordDate date="1990" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="TojooInVolochanka">
+    <Place>Усть_Авам</Place>
+    <RecordDate date="1990" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="TripToVolochanka">
+    <Place>Кыча</Place>
+    <RecordDate date="1990" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Fishing">
+    <Place>Боярка</Place>
+    <RecordDate date="1991" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Fishing">
+    <Place>Огдуо</Place>
+    <RecordDate date="1991" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Fishing">
+    <Place>Волочанка</Place>
+    <RecordDate date="1991" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="GirlFromTundra">
+    <Place>Хатанга</Place>
+    <RecordDate date="200X" />
+    <Speaker speaker="758ce94e-fd27-475f-b0ec-00c28a663b51" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="MPXarlampiev">
+    <Place>Таймыр</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="AkPG" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="MPXarlampiev">
+    <Place>Якутия</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="AkPG" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="MPXarlampiev">
+    <Place>Москва</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="AkPG" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="MPXarlampiev">
+    <Place>Дудинка</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="MPXarlampiev">
+    <Place>Таймыр</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="MPXarlampiev">
+    <Place>Якутия</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="MPXarlampiev">
+    <Place>Москва</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="MPXarlampiev">
+    <Place>Внуково</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="MPXarlampiev">
+    <Place>Хатанга</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="MPXarlampiev">
+    <Place>Кресты</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Aku">
+    <Place>Наһоӈ</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="unknown" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Aku">
+    <Place>Кресты</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="unknown" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Aku">
+    <Place>Дудинка</Place>
+    <RecordDate date="2009" />
+    <Speaker speaker="unknown" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Festival">
+    <Place>Ханты_Мансийск</Place>
+    <RecordDate date="2010" />
+    <Speaker speaker="UkOA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Festival">
+    <Place>Таймыр</Place>
+    <RecordDate date="2010" />
+    <Speaker speaker="UkOA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Festival">
+    <Place>Хатанга</Place>
+    <RecordDate date="2010" />
+    <Speaker speaker="UkOA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Festival">
+    <Place>Магадан</Place>
+    <RecordDate date="2010" />
+    <Speaker speaker="UkOA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Festival">
+    <Place>Ямало_Ненецкий</Place>
+    <RecordDate date="2010" />
+    <Speaker speaker="UkOA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Festival">
+    <Place>Чукотка</Place>
+    <RecordDate date="2010" />
+    <Speaker speaker="UkOA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Festival">
+    <Place>Иртыш</Place>
+    <RecordDate date="2010" />
+    <Speaker speaker="UkOA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Festival">
+    <Place>Обь</Place>
+    <RecordDate date="2010" />
+    <Speaker speaker="UkOA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="JesusAndPilate">
+    <Place>Рим</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="JesusAndPilate">
+    <Place>Иудея</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="JesusAndPilate">
+    <Place>Самария</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="MountOfOlives">
+    <Place>Гефсемания</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="MountOfOlives">
+    <Place>Иерусалим</Place>
+    <RecordDate date="1994" />
+    <Speaker speaker="PoNA" />
+    <Language lang="dolgan" />
+  </TextName>
+  <TextName name="Brothers">
+    <Place>Энейдене</Place>
+    <RecordDate date="1914" />
+    <Speaker speaker="AA" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="Corpse">
+    <Place>Кёчун_Гюдюр</Place>
+    <RecordDate date="1914" />
+    <Speaker speaker="AA" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="Girl">
+    <Place>Энейдене</Place>
+    <RecordDate date="1914" />
+    <Speaker speaker="AA" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SoldierSchool">
+    <Place>Агинское</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0205.PKZ">
+    <Place>Агинское</Place>
+    <RecordDate date="1964" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0207.PKZ">
+    <Place>Малиновка</Place>
+    <RecordDate date="1964" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0208.PKZ">
+    <Place>Агинское</Place>
+    <RecordDate date="1964" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0209.PKZ">
+    <Place>Саяны</Place>
+    <RecordDate date="1964" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0209.PKZ">
+    <Place>Пермяково</Place>
+    <RecordDate date="1964" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0211.PKZ">
+    <Place>Ильбинь</Place>
+    <RecordDate date="1964" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0211.PKZ">
+    <Place>Саяны</Place>
+    <RecordDate date="1964" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0211.PKZ">
+    <Place>Заозерка</Place>
+    <RecordDate date="1964" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0212.PKZ">
+    <Place>%Рыбное</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0213">
+    <Place>Малиновка</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0213">
+    <Place>Вознесенское</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0214">
+    <Place>Свердловск</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0214">
+    <Place>Уяр</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0214">
+    <Place>Саянск</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0214">
+    <Place>Абалаково</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0214">
+    <Place>Заозерка</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0214">
+    <Place>Переясловка</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0214">
+    <Place>Усть_Кандыга</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0214">
+    <Place>Унер</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0214">
+    <Place>Саянский</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0214">
+    <Place>Саяны</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0214">
+    <Place>Кан_Оклер</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0214">
+    <Place>Пермяково</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0215">
+    <Place>Агинское</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0215">
+    <Place>Пермяково</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0215">
+    <Place>%Нагорный</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0216">
+    <Place>Агинское</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0216">
+    <Place>Ильбинь</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0217.PKZ">
+    <Place>Игарка</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0218">
+    <Place>Агинское</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0218">
+    <Place>Вознесенское</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0221">
+    <Place>Агинское</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0221">
+    <Place>Саяны</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0222">
+    <Place>Сибирь</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0224">
+    <Place>Белогорье</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0224">
+    <Place>Кан_Оклер</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0225">
+    <Place>Абалаково</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0225">
+    <Place>Агинское</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0227">
+    <Place>Агинское</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0227">
+    <Place>Пермяково</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0229">
+    <Place>Агинское</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0229">
+    <Place>Красноярск</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="SU0229">
+    <Place>Дяла</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Пьянково</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Агинское</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Уяр</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Красноярск</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Новосибирск</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Москва</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Тарту</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Спасское</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Агинское</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Каптырлык</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Волгоград</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Вознесенское</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Уяр</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Красноярск</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Новосибирск</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Москва</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Таллин</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Агинское</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>%Приволье</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Пьянково</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Абалаково</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Малиновка</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Белогорье</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Спасовка</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Преображенка</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Малиновка</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Агинское</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Тарту</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Красноярск</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="">
+    <Place>Агинское</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="F0205-01.PKZ">
+    <Place>Саяны</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="F0205-01.PKZ">
+    <Place>Абалаково</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="F0205-01.PKZ">
+    <Place>Кан_Оклер</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="F0205-01.PKZ">
+    <Place>Плешивая</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="F0205-02.PKZ">
+    <Place>Агинское</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="F0205-02.PKZ">
+    <Place>Сахалин</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="F0205-02.PKZ">
+    <Place>Саяны</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="F0255">
+    <Place>Белогорье</Place>
+    <RecordDate date="1970" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="TripToAginskoe2">
+    <Place>Агинское</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="TripToAginskoe">
+    <Place>Агинское</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="TripToAginskoe">
+    <Place>Малиновское</Place>
+    <RecordDate date="196X" />
+    <Speaker speaker="PKZ" />
+    <Language lang="kamas" />
+  </TextName>
+  <TextName name="Lament">
+    <Place>Саяны</Place>
+    <RecordDate date="1914" />
+    <Speaker speaker="AA" />
+    <Language lang="kamas" />
+  </TextName>
+</Document>

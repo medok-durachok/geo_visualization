@@ -1,0 +1,392 @@
+#mapid{
+    height: 100vmin;
+    width: 100vmax;
+ }
+
+ input:focus{
+    outline: none;
+ }
+
+ section{
+    position: fixed;
+    z-index: -1;
+}
+
+ #save{
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 20px 40px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+ }
+
+ #elastic{
+     width: 330px;
+     height: 45px;
+     margin-left: 35px;
+     border: none;
+     border-radius: 4px;
+     user-select: none;
+     box-shadow: 0px 0px 5px darkgrey;
+ }
+
+header{
+    position: fixed;
+    z-index: 1000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 26px;
+    left: -24px;
+    text-align: left;
+    line-height: 50px;  
+    user-select: none;
+}
+
+button {
+  position: absolute; 
+  top: 0;
+  right: 0px;
+  width: 42px;
+  height: 42px;
+  border: none;
+  cursor: pointer;
+}
+
+button:before {
+  content: "\f002";
+  font-family: FontAwesome;
+  font-size: 16px;
+  color: rgb(0, 0, 0);
+}
+
+* {box-sizing: border-box;}
+form {
+  position: relative;
+  width: 300px;
+  margin: 0 auto;
+}
+
+input, button {
+  border: none;
+  outline: none;
+  border-radius: 3px;
+}
+
+input {
+  width: 100%;
+  height: 42px;
+  padding-left: 15px;
+}
+
+button {
+  height: 28px;
+  width: 28px;
+  position: absolute;
+  top: 15px;
+  left: 325px;
+  cursor: pointer;
+  background-color: #ffffff;
+}
+
+button:before {
+  font-family: FontAwesome;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+ *{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+ }
+
+ .sidebar{
+    position: fixed;
+    z-index: 101;
+    left: -350px;
+    width: 350px;
+    height: 100%;
+    background: #ffffff;
+    transition: all .5s ease;
+    box-shadow: 0px 0px 5px darkgrey;
+ }
+
+.sidebar ul a{
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100%;
+    width: 100%;
+    font-size: 18px;
+    color: black;
+    text-align: left;
+    line-height: 55px;  
+    padding-left: 30px;
+    box-sizing: border-box;
+    border-top: 1px solid #cccccc;
+    transition: .3s;
+}
+
+/*.sidebar li:hover a{ 
+    background-color: rgba(236, 236, 236, 0.8);
+}*/
+
+#check{
+    display: none;
+}
+
+label #btn, label #cancel{
+    position: absolute;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.445);
+}
+
+label #btn{
+    z-index: 1000;
+    left: 350px;
+    top: 16px;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.76);
+    padding: 4px 8px;
+    border-radius: 3px;
+    transition: all .5s;
+}
+
+label #cancel{
+    z-index: 1000;
+    left: -355px;
+    top: 16px;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.76);
+    padding: 4px 8px;
+    border-radius: 3px;
+    transition: all .5s ease;
+}
+
+#check:checked ~ .sidebar{
+    left: 0;
+}
+
+#check:checked ~ label #btn{
+    left: 340px;
+    opacity: 0;
+    pointer-events: none;
+}
+
+#check:checked ~ label #cancel{
+    left: 350px;
+}
+
+#lang{
+    margin-left: 15px;
+}
+
+label{
+    cursor: pointer;
+    color: #000;
+    font-weight: normal;
+    line-height: 30px;
+    padding: 10px 0;
+}
+
+input[type=checkbox] {
+    display: none;
+}
+
+label[for="lang1"]::before, label[for="lang2"]::before, label[for="lang3"]::before, label[for="sex1"]::before, label[for="sex2"]::before {
+
+  content: " ";
+  display: block;
+  color: #000;
+  display: inline-block;
+  font: 20px/30px Arial;
+  margin-right: 5px;
+  margin-left: 15px;
+  position: relative;
+  text-align: center;
+  text-indent: 0px;
+  width: 11px;
+  height: 11px;
+  background: #FFF;
+  border: 1px solid #e3e3e3;
+  border-image: initial;
+}
+
+label[for="agenone"]::before{
+  content: " ";
+  color: #000;
+  display: inline-block;
+  font: 20px/30px Arial;
+  margin-right: 5px;
+  margin-left: 15px;
+  position: relative;
+  text-align: center;
+  text-indent: 0px;
+  width: 11px;
+  height: 11px;
+  background: #FFF;
+  border: 1px solid #e3e3e3;
+  border-image: initial
+}
+
+input:checked + label[for="lang1"]::before, input:checked + label[for="lang2"]::before, input:checked + label[for="lang3"]::before {
+    content: "\2713";
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.541);
+    font-size: 15px;
+    color: #000000;
+    text-align: center;
+    line-height: 15px;
+}
+
+input:checked + label[for="sex1"]::before, input:checked + label[for="sex2"]::before{
+    content: "\2713";
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.541);
+    font-size: 15px;
+    color: #000000;
+    text-align: center;
+    line-height: 15px;
+}
+
+input:checked + label[for="agenone"]::before{
+  position: relative;
+  content: "\2713";
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.541);
+  font-size: 15px;
+  color: #000000;
+  text-align: center;
+  line-height: 15px;
+  display: inline-block;
+}
+
+.slidecontainer{
+    position: relative;
+    user-select: none;
+    pointer-events: none;
+    border-radius: 8px;
+    width: 290px;
+    height: 25px;
+    margin-bottom: 5px;
+    left: 25px;
+}
+
+
+output #YearRange1, output #AgeRange1{
+    position: absolute;
+    margin-left: 15px;
+    border-radius: 8px 8px 0px 8px;
+    font-weight: bold;
+    color: #020202;
+}
+
+output #YearRange2, output #AgeRange2{
+    position: absolute;
+    margin-left: 30px;
+    font-weight: bold;
+    color: #020202;
+}
+
+#YearRange1, #AgeRange1{
+    width: 280px;
+    height: 7px;
+    left: 5px;
+    bottom: 16px;
+    background: #75cff0;
+    -webkit-appearance: none;
+    outline: none;
+    border-radius: 4px;
+}
+
+#YearRange2, #AgeRange2{
+    background: #0a95da00;
+    width: 280px;
+    height: 7px;
+    left: 5px;
+    bottom: 16px;
+    -webkit-appearance: none;
+    outline: none;
+    border-radius: 4px;
+}
+
+.slidecontainer input[type="range"]{
+    height: 2em;
+    display: block;
+    margin: 0;
+    padding: 0;
+  }
+
+.slidecontainer input[type="range"]:last-child{
+    margin-top: -0.56em;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    pointer-events: all;
+    background-color: #67bedd;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: -4px;
+    user-select: none;
+    transition: .5s;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+  height: 34px;
+}
+
+
+.switch input {display:none;}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  width: 60px;
+  top: -45px;
+  left: 64px;
+  right: 0;
+  bottom: 45px;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #67bedd;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #67bedd;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+

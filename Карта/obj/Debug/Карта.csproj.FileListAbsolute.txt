@@ -1,0 +1,63 @@
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\Карта.exe.config
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\Карта.exe
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\Карта.pdb
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\GMap.NET.Core.dll
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\obj\Debug\Карта.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\obj\Debug\Карта.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\obj\Debug\Карта.csproj.CopyComplete
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\obj\Debug\Карта.exe
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\obj\Debug\Карта.pdb
+C:\Users\ASUS\Documents\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\Noesis.Javascript.dll
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\Карта.exe.config
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\Карта.exe
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\Карта.pdb
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\EntityFramework.dll
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\GMap.NET.Core.dll
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\Noesis.Javascript.dll
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\System.Data.SQLite.dll
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\EntityFramework.xml
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\System.Data.SQLite.xml
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\obj\Debug\Карта.csprojAssemblyReference.cache
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\obj\Debug\Карта.csproj.CoreCompileInputs.cache
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\obj\Debug\Карта.csproj.CopyComplete
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\obj\Debug\Карта.exe
+C:\Users\darya\OneDrive\Документы\potapova.darya\ПРОЕКТ\Карта\Карта\obj\Debug\Карта.pdb
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\Карта.exe.config
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\Карта.exe
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\Карта.pdb
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\EntityFramework.dll
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\GMap.NET.Core.dll
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\Noesis.Javascript.dll
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\EntityFramework.xml
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\obj\Debug\Карта.csprojAssemblyReference.cache
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\obj\Debug\Карта.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\obj\Debug\Карта.csproj.CopyComplete
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\obj\Debug\Карта.exe
+C:\Users\Vera\Desktop\ПРОЕКТ\programming\Карта v.2.3\Карта\obj\Debug\Карта.pdb
